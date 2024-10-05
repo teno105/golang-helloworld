@@ -25,7 +25,6 @@ helloworld/
 
 - **Go 언어**가 설치되어 있어야 합니다. [Go 설치 가이드](https://golang.org/doc/install)
 - **Git**이 설치되어 있어야 합니다.
-- 선택사항: **`golangci-lint`** 설치 ([설치 가이드](https://golangci-lint.run/usage/install/))
 
 ## 실습 순서
 
